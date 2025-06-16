@@ -1,3 +1,4 @@
-# BA_PROJECT
+# BA_PROJECT_DEMO
+Data: self-made create
 Models: Logistic Regression, XGBoost 
-Predict churn rate 
+Purposes:Predict churn rate 
